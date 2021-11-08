@@ -5,7 +5,7 @@ title: 	AWS Well Architected Framework
 
 ---
 ## AWS Well Architected Framework
-### Architectural best practices should be followed to reduce interdependencies between systems.
+Architectural best practices should be followed to reduce interdependencies between systems.
 
 **Asynchronous integration** - this is another form of loose coupling where an interaction does not need an immediate response (think SQS queue or Kinesis)
 
